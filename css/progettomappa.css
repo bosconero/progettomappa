@@ -1,0 +1,4 @@
+  #vicino{width:100%;background-color:#fffeee;margin-top:0px;}
+  @media screen and (max-width: 500px)and (min-width: 320px){
+  #map{width:90%; height:auto}
+  }/* CSS Document */
